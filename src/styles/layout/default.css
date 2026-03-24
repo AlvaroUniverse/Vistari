@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to top, #0017AE, #4F66FB);
+}
+
+/* PARA HEADER*/
+
+header{
+    background: linear-gradient(to right, #47EC53, #10A863);
+    height: 15vh;
+}
+
+#header-down{
+    background-color: #969696;
+}
