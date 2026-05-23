@@ -9,8 +9,25 @@ body{
 header{
     background: linear-gradient(to right, #47EC53, #10A863);
     height: 15vh;
+    display: grid;
+    place-items: center;
 }
 
-#header-down{
+#logo-header{
+    width: 150px;
+}
+
+nav{
     background-color: #969696;
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+    gap: 5%;
+}
+
+nav a{
+    font-size: 1.5rem;
+    text-decoration-line: none;
+    text-decoration: none;
+    color: black;
 }
