@@ -1,0 +1,19 @@
+main{
+    display: flex;
+    gap: 10%;
+}
+
+.card{
+    background-color: #C0C0C0;
+    width: 50%;
+}
+
+.card-content{
+    margin: 0;
+    padding: 1%;
+}
+
+.desc-card{
+    width: auto;
+    height: auto;
+}

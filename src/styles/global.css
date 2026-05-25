@@ -1,4 +1,8 @@
 /* ! DEGUB ! */
 *{
-    outline: 1px solid red
+    outline: 1px solid rgb(255, 0, 0)
+}
+
+h1, h2, h3, h4, h5, h6, p, a {
+    font-family: Arial, Helvetica, sans-serif;
 }
