@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="300" height="300" alt="vistari-logo-sem-fundo" src="https://github.com/user-attachments/assets/6254c095-58c1-441a-a35b-707078420f6e" />
+  <img width="300" alt="vistari-logo-sem-fundo" src="https://github.com/user-attachments/assets/6254c095-58c1-441a-a35b-707078420f6e" />
 </h1>
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge">
